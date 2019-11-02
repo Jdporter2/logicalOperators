@@ -29,7 +29,7 @@ START HERE
 # )Broken: Change the code so it returns True
 # )3**2 == 3+2 or 1+2 <= 3 and !True
 # )Correct:
-3**2 == 3+2 and 1+2 <= 3 and not True
+3**2 == 3+2 or 1+2 <= 3 and not False
 
 #3)
 # )Broken: Change it so it returns False
